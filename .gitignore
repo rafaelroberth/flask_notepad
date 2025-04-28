@@ -1,0 +1,10 @@
+# Ignore unnecessary files
+
+__pycache__/
+*.pyc
+Thumbs.db
+ehthumbs.db
+.DS_Store
+node_modules/
+.pycache/
+env/
